@@ -1,0 +1,47 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  text-align: center;
+}
+
+.card {
+  width: 16rem;
+  height: auto;
+  margin: 0.25rem;
+  align-items: center;
+  position: relative;
+}
+.card .card-body {
+  width: 14rem;
+  height: auto;
+}
+.card .card-body .card-img-top {
+  width: 180px;
+  height: 250px;
+}
+.card .card-body h5 {
+  text-align: center;
+  padding: 0.25rem 0 0 0;
+  font-weight: bold;
+}
+.card .card-body p {
+  text-align: justify;
+}
+.card .card-body a {
+  position: absolute;
+  bottom: 5px;
+  left: 55px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.card .card-body .pouce {
+  position: absolute;
+  bottom: 8px;
+  width: 25px;
+  height: auto;
+}
+
+/*# sourceMappingURL=style.css.map */
